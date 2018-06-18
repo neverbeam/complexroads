@@ -1,0 +1,5 @@
+# ignore .ipynb_checkpoints extra files
+*.ipynb_checkpoints
+
+# everyone puts his own downloaded road databases in the databases directory
+databases
