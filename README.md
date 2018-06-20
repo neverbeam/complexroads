@@ -2,11 +2,11 @@
 Project for computational science about road maps
 
 Todo:
-- Better selection of continents
+- Better selection of continents (done)
 - Make use of the weights (distance, flow afterwards)
 - Remove small roads
-- give endpoints a node
-- Removal of nodes with degree of 2
+- give endpoints a node (done)
+- Removal of nodes with degree of 2 (done)
 - Compare topologies
 
 - Perhaps bounds on intersections gives better speed
