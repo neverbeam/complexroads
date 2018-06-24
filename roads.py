@@ -103,6 +103,8 @@ def world_plot():
     return mpld3.fig_to_html(fig)
 
 
+world_plot()
+
 def continent_plot(name):
     fig, ax = plt.subplots(2)
     # scatter periods and amplitudes
@@ -146,14 +148,6 @@ def test_australia():
 
 
 
-
-# make the map global rather than have it zoom in to
-# the extents of any plotted data
-ax.set_global()
-ax.stock_img()
-ax.coastlines()
-
-plt.show()
 
 
     
