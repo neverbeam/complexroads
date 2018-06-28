@@ -8,3 +8,6 @@ Furthermore, some of it is somewhat messy, as it was to be used internally for g
 However, graph.ipynb and "Random network.ipynb" have been adapted to be runnable as-is, and to be outsider-friendly. Preprocessed data is part of the repository, and results that would take too long to compute have been pre-computed.
 
 Thus, graph.ipynb and "Random network.ipynb" can be run from the top, in either order, and this should show results like in the presentation, except that it ignores the entire world except for Australia.
+
+Github (might you get this README through other means): https://github.com/neverbeam/complexroads
+Website: patrickwernke.ml
